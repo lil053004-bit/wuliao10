@@ -264,7 +264,7 @@ export default function Footer() {
                 </li>
                 <li className="flex items-center gap-1 text-gray-300">
                   <Phone className="w-3 h-3" />
-                  <span>080-3376-0625</span>
+                  <span>+81 3-5555-1272</span>
                 </li>
                 <li className="text-gray-400 text-xs">
                   受付時間: 平日 9:00-18:00
@@ -279,12 +279,15 @@ export default function Footer() {
                 サービス情報
               </h4>
               <ul className="space-y-2 text-xs sm:text-sm text-gray-300">
-                <li>株式会社結禾テクノロジーズ</li>
-                <li>AI株式診断サービス</li>
-                <li>リアルタイム株価情報</li>
-                <li>テクニカル分析</li>
-                <li>銘柄スクリーニング</li>
-                <li>データ提供: 公開市場情報</li>
+                <li>株式会社AKYI</li>
+                <li>Kabushikigaisha AKYI</li>
+                <li>100-0064</li>
+                <li>東京都千代田区大手町5-7-1</li>
+                <li>5-7-1 Otemachi, Chiyoda-ku, Tokyo</li>
+                <li>+81 3-5555-1272</li>
+                <li>contact@financidsdgroup.jp</li>
+                <li className="mt-3 pt-2 border-t border-gray-600">whep AI株式診断アプリケーション</li>
+                <li>無料情報提供サービス</li>
               </ul>
             </div>
 
@@ -334,12 +337,12 @@ export default function Footer() {
           {/* Copyright Section */}
           <div className="border-t border-gray-700 pt-4 text-center">
             <p className="text-xs sm:text-sm text-gray-400 mb-2 font-medium">
-              &copy; {currentYear} 栫式会社結禾テクノロジーズ. All rights reserved.
+              &copy; {currentYear} 株式会社AKYI (Kabushikigaisha AKYI). All rights reserved.
             </p>
             <p className="text-[10px] sm:text-xs text-gray-500 leading-relaxed max-w-3xl mx-auto">
-              当サイトで提供される情報は投資勧誘を目的としたものではありません。
+              当サイトは無料のAI診断アプリケーションであり、金融アドバイスや投資助言を提供するものではありません。
+              提供される情報は参考情報のみであり、投資勧誘を目的としたものではありません。
               投資に関する最終決定は、利用者ご自身の判断でなさるようお願いいたします。
-              掲載されている情報の正確性については万全を期しておりますが、その内容の正確性、安全性、有用性を保証するものではありません。
             </p>
           </div>
         </div>

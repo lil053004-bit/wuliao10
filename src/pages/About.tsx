@@ -23,14 +23,14 @@ export default function About() {
 
           <div className="prose max-w-none">
             <section className="mb-8">
-              <h2 className="text-xl font-bold text-gray-900 mb-4">AI株式診断サービスについて</h2>
+              <h2 className="text-xl font-bold text-gray-900 mb-4">whep AI株式診断アプリケーションについて</h2>
               <p className="text-gray-700 leading-relaxed mb-3">
-                AI株式診断サービスは、最新のAI技術を活用して株式市場の情報を分析し、
-                投資家の皆様に有益な情報を提供することを目的としたサービスです。
+                whepは、AI技術を活用した無料の株式診断アプリケーションです。
+                金融アドバイスや投資助言を提供するものではなく、参考情報の提供のみを目的としています。
               </p>
               <p className="text-gray-700 leading-relaxed">
-                私たちは、テクノロジーの力で投資情報の民主化を実現し、
-                より多くの方々が適切な情報に基づいて投資判断を行える環境を提供することを目指しています。
+                私たちは、テクノロジーの力で株式情報へのアクセスを民主化し、
+                より多くの方々が情報に基づいて自分で判断できる環境を提供することを目指しています。
               </p>
             </section>
 
@@ -41,11 +41,11 @@ export default function About() {
               </div>
               <div className="bg-blue-50 rounded-lg p-6">
                 <p className="text-gray-800 font-semibold mb-3">
-                  「AI技術で投資情報をもっと身近に、もっと分かりやすく」
+                  「AI技術で株式情報をもっと身近に、もっと分かりやすく」
                 </p>
                 <p className="text-gray-700 leading-relaxed">
                   私たちは、複雑な株式市場の情報をAI技術により分かりやすく分析し、
-                  投資家の皆様がより良い投資判断を行えるよう支援することを使命としています。
+                  利用者の皆様が情報に基づいて自分で判断できるよう支援することを使命としています。
                 </p>
               </div>
             </section>
@@ -142,29 +142,33 @@ export default function About() {
                 <dl className="space-y-3">
                   <div className="flex flex-col sm:flex-row sm:items-start">
                     <dt className="font-semibold text-gray-900 w-32 flex-shrink-0">会社名</dt>
-                    <dd className="text-gray-700">株式会社結禾テクノロジーズ</dd>
+                    <dd className="text-gray-700">株式会社AKYI</dd>
                   </div>
                   <div className="flex flex-col sm:flex-row sm:items-start">
-                    <dt className="font-semibold text-gray-900 w-32 flex-shrink-0">運営責任者</dt>
-                    <dd className="text-gray-700">永田治史</dd>
+                    <dt className="font-semibold text-gray-900 w-32 flex-shrink-0">英文名</dt>
+                    <dd className="text-gray-700">Kabushikigaisha AKYI</dd>
                   </div>
                   <div className="flex flex-col sm:flex-row sm:items-start">
                     <dt className="font-semibold text-gray-900 w-32 flex-shrink-0">所在地</dt>
-                    <dd className="text-gray-700">東京都渋谷区神南1-12-4 神南ビル6F</dd>
+                    <dd className="text-gray-700">
+                      〒100-0064<br />
+                      東京都千代田区大手町5-7-1<br />
+                      5-7-1 Otemachi, Chiyoda-ku, Tokyo
+                    </dd>
                   </div>
                   <div className="flex flex-col sm:flex-row sm:items-start">
                     <dt className="font-semibold text-gray-900 w-32 flex-shrink-0">電話番号</dt>
-                    <dd className="text-gray-700">080-3376-0625</dd>
+                    <dd className="text-gray-700">+81 3-5555-1272</dd>
                   </div>
                   <div className="flex flex-col sm:flex-row sm:items-start">
                     <dt className="font-semibold text-gray-900 w-32 flex-shrink-0">メールアドレス</dt>
-                    <dd className="text-gray-700">ahuang2025123123@gmail.com</dd>
+                    <dd className="text-gray-700">contact@financidsdgroup.jp</dd>
                   </div>
                   <div className="flex flex-col sm:flex-row sm:items-start">
                     <dt className="font-semibold text-gray-900 w-32 flex-shrink-0">事業内容</dt>
                     <dd className="text-gray-700">
                       株式市場情報の分析および提供<br />
-                      AI技術を活用した投資情報サービスの開発・運営
+                      AI技術を活用した情報提供サービスの開発・運営
                     </dd>
                   </div>
                 </dl>

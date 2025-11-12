@@ -27,7 +27,8 @@ export default function Disclaimer() {
             <div className="bg-red-50 border-l-4 border-red-500 p-4 mb-8">
               <p className="text-red-900 font-bold mb-2">重要な注意事項</p>
               <p className="text-red-800 leading-relaxed">
-                当サービスは情報提供のみを目的としており、投資助言や投資勧誘を行うものではありません。
+                当サービスは無料のAI診断アプリケーションであり、情報提供のみを目的としています。
+                金融アドバイス、投資助言や投資勧誘を行うものではありません。
                 投資判断はご自身の責任において行ってください。
               </p>
             </div>

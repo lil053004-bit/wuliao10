@@ -23,7 +23,7 @@ export default function Contact() {
 
           <div className="prose max-w-none">
             <p className="text-gray-700 leading-relaxed mb-8">
-              AI株式診断サービスをご利用いただき、誠にありがとうございます。
+              whep AI株式診断アプリケーションをご利用いただき、誠にありがとうございます。
               ご質問、ご要望、不具合のご報告など、お気軽にお問い合わせください。
             </p>
 
@@ -162,13 +162,16 @@ export default function Contact() {
                 電話でのお問い合わせ
               </h3>
               <p className="text-sm text-gray-700 mb-2">
-                株式会社結禾テクノロジーズ
+                株式会社AKYI (Kabushikigaisha AKYI)
               </p>
               <p className="text-sm text-gray-700 mb-2">
-                <strong>電話番号:</strong> 080-3376-0625
+                <strong>所在地:</strong> 〒100-0064 東京都千代田区大手町5-7-1
               </p>
               <p className="text-sm text-gray-700 mb-2">
-                <strong>メールアドレス:</strong> ahuang2025123123@gmail.com
+                <strong>電話番号:</strong> +81 3-5555-1272
+              </p>
+              <p className="text-sm text-gray-700 mb-2">
+                <strong>メールアドレス:</strong> contact@financidsdgroup.jp
               </p>
               <p className="text-sm text-gray-700">
                 <strong>受付時間:</strong> 平日 9:00-18:00
